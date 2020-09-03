@@ -54,5 +54,6 @@
 	</build>
 	<modules>
 		<module>jsp01</module>
+		<module>jsp02</module>
 	</modules>
 </project>
