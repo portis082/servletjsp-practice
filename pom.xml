@@ -55,5 +55,6 @@
 	<modules>
 		<module>jsp01</module>
 		<module>jsp02</module>
+		<module>jsp03</module>
 	</modules>
 </project>
